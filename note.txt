@@ -1,0 +1,16 @@
+loop mechanism
+
+for(starting code; continue condition; repeatation)
+{
+    statement;
+}
+
+starting code;
+
+Loop :
+    continue cond
+     true:
+        statement
+        repeatation
+     flase:
+        stop   
